@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternetWineDatabase", "InternetWineDatabase\InternetWineDatabase.csproj", "{3A742360-71E2-468C-B7AC-646A3BAE696B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternetWineDatabase.Web", "InternetWineDatabase.Web\InternetWineDatabase.Web.csproj", "{B0F4B196-10F0-43CE-BA81-8BD432ECE43D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3A742360-71E2-468C-B7AC-646A3BAE696B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A742360-71E2-468C-B7AC-646A3BAE696B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A742360-71E2-468C-B7AC-646A3BAE696B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0F4B196-10F0-43CE-BA81-8BD432ECE43D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F4B196-10F0-43CE-BA81-8BD432ECE43D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F4B196-10F0-43CE-BA81-8BD432ECE43D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F4B196-10F0-43CE-BA81-8BD432ECE43D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
